@@ -1,4 +1,4 @@
-[![Nostalgic Fishing](https://raw.githubusercontent.com/Kxffie/CraftingPlus/main/raw.png)](https://modrinth.com/datapack/crafting+)
+[![Nostalgic Fishing](https://raw.githubusercontent.com/Kxffie/Nostalgic-Fishing/main/title.png)](https://modrinth.com/datapack/nostalgic-fishing)
 
 [![Discord](https://img.shields.io/discord/1035733638735728701?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/FdWDRYBBkf)
 [![Modrinth](https://img.shields.io/modrinth/dt/HhcsfmGU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/nostalgic-fishing)
